@@ -6,9 +6,11 @@
 A 3d simulation game. The goal of this application is to simulate the motion of the lunar lander.  
 
 ## Concepts
-Basic Physics Engine: Uses kinematic physics
-Octree for collision detection and mouse-ray detection
-Particle System for simulating the thruster flame
+Basic Physics Engine: Uses kinematic physics.
+
+Octree for collision detection and mouse-ray detection.
+
+Particle System for simulating the thruster flame.
 
 ## Controls
 Two different ways to control the spacecraft:
