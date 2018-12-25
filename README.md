@@ -23,15 +23,21 @@ To Switch Cameras:
 Two different ways to control the spacecraft:
   * Arrow Key: 
   
-          Up for +y <br />
-          Down for -y <br />
-          Left for -x <br />
-          Right for +x <br />
-          Ctrl + Up for +z <br />
-          Ctrl + Down for -z <br />
+          Up for +y 
+          Down for -y 
+          Left for -x 
+          Right for +x 
+          Ctrl + Up for +z 
+          Ctrl + Down for -z 
    
   * Mouse Click:
+  
+          Press h - to hover
+          Then click on the mesh
 
+Other controls:
+
+          Press s - screenshot
 
 
 <br/>
