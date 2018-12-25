@@ -13,6 +13,13 @@ Octree for collision detection and mouse-ray detection.
 Particle System for simulating the thruster flame.
 
 ## Controls
+To Switch Cameras:
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;F1 - Main Cam <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;F2 - Front Cam <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;F3 - Bottom Cam <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;F4 - Track Cam
+  
 Two different ways to control the spacecraft:
   * Arrow Key:
   
