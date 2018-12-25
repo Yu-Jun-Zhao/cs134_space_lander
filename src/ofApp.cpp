@@ -1,25 +1,5 @@
 
-//--------------------------------------------------------------
-//
-//  Kevin M. Smith
-//
-//  Mars HiRise Project - startup scene
-// 
-//  This is an openFrameworks 3D scene that includes an EasyCam
-//  and example 3D geometry which I have reconstructed from Mars
-//  HiRis photographs taken the Mars Reconnaisance Orbiter
-//
-//  You will use this source file (and include file) as a starting point
-//  to implement assignment 5  (Parts I and II)
-//
-//  Please do not modify any of the keymappings.  I would like 
-//  the input interface to be the same for each student's 
-//  work.  Please also add your name/date below.
-
-//  Please document/comment all of your work !
-//  Have Fun !!
-//
-//  Student Name:   < Yu Jun Zhao > (010570820)
+// author: < Yu Jun Zhao > 
 //  Date: <11/18/2018>
 
 /*
