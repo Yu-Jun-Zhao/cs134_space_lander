@@ -21,8 +21,15 @@ To Switch Cameras:
    &nbsp;&nbsp;&nbsp;&nbsp;F4 - Track Cam
   
 Two different ways to control the spacecraft:
-  * Arrow Key:
+  * Arrow Key: 
   
+   >> Up for +y <br />
+	Down for -y <br />
+	Left for -x <br />
+	Right for +x <br />
+	Ctrl + Up for +z <br />
+	Ctrl + Down for -z <br />
+   
   * Mouse Click:
 
 
